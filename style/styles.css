@@ -937,6 +937,10 @@ svg{
       margin: 4vw 4vw;
   }
 
+  .about-me-1 a{
+    color: #000;
+  }
+
   /* .about-me-1 p:nth-child(1){
     
     font-family: Jost;
@@ -980,6 +984,10 @@ svg{
   
 }
 
+.icons a{
+    color:000;
+    text-decoration:none;
+}
 
 .line-4{
     width: 60%;
